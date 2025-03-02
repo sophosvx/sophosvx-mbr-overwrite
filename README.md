@@ -23,5 +23,3 @@ A proof-of-concept (PoC) tool written in C that overwrites the Master Boot Recor
 
 **This is a proof-of-concept project and is strictly for educational purposes only.**  
 **Unauthorized use of this tool to overwrite the MBR of a system without consent is illegal and unethical. The author assumes no responsibility for misuse.**
-
----
